@@ -1,6 +1,6 @@
 # JCODE WORKS COPILOT INSTRUCTIONS
 
-[Documentation](https://docs.github.com/fr/copilot/customizing-copilot/adding-repository-custom-instructions-for-github-copilot?tool=vscode)
+[Documentation](https://docs.github.com/fr/copilot/customizing-copilot/adding-repository-custom-instructions-for-github-copilot)
 
 ## Copilot Instructions Summary
 This file contains comprehensive guidelines for Github copilot developing high-quality web applications with a focus on modern best practices. Key sections include:
